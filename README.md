@@ -15,11 +15,11 @@ I am in the Kansas City Metropolitan area, but I was raised outside Houston, TX.
 
 Now I love learning every new (to me) framework, language, whatever out there.
 My repos consist of TypeScript, Angular, and loads of Java with a healthy smattering of SpringBoot. <br>
-:new_moon: :waxing_crescent_moon: :first_quarter_moon: :waxing_gibbous_moon: :full_moon: :waning_gibbous_moon: :last_quarter_moon: :waning_crescent_moon:
+:new_moon: :waxing_crescent_moon: :first_quarter_moon: :waxing_gibbous_moon: :full_moon: :waning_gibbous_moon: :last_quarter_moon: :waning_crescent_moon: <br>
 Still learning BootStrap, Sass, php, Drupal... The list probably won't stop. :dizzy_face:
 
 **COMING SOON The RELAUNCH of [Sullivan Tiberius' Website](https://www.sullyismagic.com")**
 
 Although I don't have much presence on socail media right now, you can always reach out to me [via email](a href="mailto:jmzager@gmail.com")
-**Thanks for stopping by! Gotta go back to work!**
+**Thanks for stopping by! Gotta go back to work!** <br>
 <img src="https://media.giphy.com/media/vhsNmFjuN4WDS/giphy.gif">
