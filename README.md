@@ -10,11 +10,11 @@ Now I am a full stack developer, working in AQ for a website I used to use daily
 
 I am in the Kansas City Metropolitan area, but I was raised outside Houston, TX.
 
-Thanks to this guy :point_right: <img src="https://www.freecodecamp.org/news/content/images/2020/05/myspace-tom-profile.jpg" width="25px"> 
+Thanks to this guy :point_right: <img src="https://www.freecodecamp.org/news/content/images/2020/05/myspace-tom-profile.jpg">, 
 I fell in :revolving_hearts: with CSS way back in 2001.
 
 Now I love learning every new (to me) framework, language, whatever out there.
-My repos consist of TypeScript, Angular, and loads of Java with a healthy smattering of SpringBoot.
+My repos consist of TypeScript, Angular, and loads of Java with a healthy smattering of SpringBoot. <br>
 :new_moon: :waxing_crescent_moon: :first_quarter_moon: :waxing_gibbous_moon: :full_moon: :waning_gibbous_moon: :last_quarter_moon: :waning_crescent_moon:
 Still learning BootStrap, Sass, php, Drupal... The list probably won't stop. :dizzy_face:
 
