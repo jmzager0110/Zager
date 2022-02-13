@@ -5,7 +5,7 @@ I'm Jessica Zager. After years as an end-user, I decided to get into the develop
 I fell in :revolving_hearts: with CSS way back in 2001... Started learning HTML5 in 2010...
 I graduated from [LaunchCode](https://www.launchcode.org) in December 2021 & landed my first job in January 2022!
 
-Now I am a full stack developer, working in AQ for a website I used to use daily in an entirely different field!
+Now I am a full stack developer, working in AQ for a website I used to use daily in an entirely different field! <br>
 :sparkles: :star: :star: :star: :sparkles:
 [Hit me up on LinkedIn!](https://www.linkedin.com/jmzager0110)
 
