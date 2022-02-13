@@ -20,6 +20,7 @@ Still learning BootStrap, Sass, php, Drupal... The list probably won't stop. :di
 
 **COMING SOON The RELAUNCH of [Sullivan Tiberius' Website](https://www.sullyismagic.com")**
 
-Although I don't have much presence on socail media right now, you can always reach out to me [via email](a href="mailto:jmzager@gmail.com")
-**Thanks for stopping by! Gotta go back to work!** <br>
+Although I don't have much presence on socail media right now, you can always reach out to me [via email](a href="mailto:jmzager@gmail.com") <br>
+**Thanks for stopping by! Gotta go back to work!** 
+<br>
 <img src="https://media.giphy.com/media/vhsNmFjuN4WDS/giphy.gif">
