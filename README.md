@@ -2,6 +2,7 @@
 <img src="https://media.giphy.com/media/3oKIPsgVPHyPPG5p3a/giphy.gif">
 
 I'm Jessica Zager. After years as an end-user, I decided to get into the developer world. 
+I fell in :revolving_hearts: with CSS way back in 2001... Started learning HTML5 in 2010...
 I graduated from [LaunchCode](https://www.launchcode.org) in December 2021 & landed my first job in January 2022!
 
 Now I am a full stack developer, working in AQ for a website I used to use daily in an entirely different field!
@@ -10,8 +11,7 @@ Now I am a full stack developer, working in AQ for a website I used to use daily
 
 I am in the Kansas City Metropolitan area, but I was raised outside Houston, TX.
 
-Thanks to this guy :point_right: <img src="https://www.freecodecamp.org/news/content/images/2020/05/myspace-tom-profile.jpg">, 
-I fell in :revolving_hearts: with CSS way back in 2001.
+
 
 Now I love learning every new (to me) framework, language, whatever out there.
 My repos consist of TypeScript, Angular, and loads of Java with a healthy smattering of SpringBoot. <br>
