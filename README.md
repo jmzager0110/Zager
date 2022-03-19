@@ -20,10 +20,10 @@ My repos consist of TypeScript, Angular, and loads of Java with a healthy smatte
 :new_moon: :waxing_crescent_moon: :first_quarter_moon: :waxing_gibbous_moon: :full_moon: :waning_gibbous_moon: :last_quarter_moon: :waning_crescent_moon: <br>
 Still learning BootStrap, Sass, php, Drupal... The list probably won't stop. :dizzy_face:
 
-**COMING SOON The RELAUNCH of [Sullivan Tiberius' Website](https://www.sullyismagic.com")**
-**COMING SOON The REMIX of [Sully with Calvin, Adventures in  Bro Life](https://websiteAddressTBD.com)**
-**COMING SOON The INITIAL LAUNCH of [Yes, I made a Blog, Now What?](https://www.notthatjayz.com)**
-**COMING SOON The INITIAL LAUNCH of [THE OFFICIAL FANSITE FOR DEBBIE SWAN](https://www.ilovedebbieswan.com)**
+**COMING SOON The RELAUNCH of [Sullivan Tiberius' Website](https://www.sullyismagic.com")**<br>
+**COMING SOON The REMIX of [Sully with Calvin, Adventures in  Bro Life](https://websiteAddressTBD.com)**<br>
+**COMING SOON The INITIAL LAUNCH of [Yes, I made a Blog, Now What?](https://www.notthatjayz.com)**<br>
+**COMING SOON The INITIAL LAUNCH of [THE OFFICIAL FANSITE FOR DEBBIE SWAN](https://www.ilovedebbieswan.com)**<br>
 
 Although I don't have much presence on social media right now, you can always reach out to me [via email](mailto:jmzager@gmail.com) :e-mail: <br>
 **Thanks for stopping by! Gotta go back to work!** 
