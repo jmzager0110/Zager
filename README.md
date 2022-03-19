@@ -15,13 +15,14 @@ I reside in the Kansas City Metropolitan area, but I was raised outside Houston,
 
 
 
-Now I love learning every new (to me) framework, language, whatever out there.
+I love learning every new (to me) framework, language, whatever out there.
 My repos consist of TypeScript, Angular, and loads of Java with a healthy smattering of SpringBoot. <br>
+One of my goals this year is to organize al repos and include good README's to each, hopefully that will be done soon! <br>
 :new_moon: :waxing_crescent_moon: :first_quarter_moon: :waxing_gibbous_moon: :full_moon: :waning_gibbous_moon: :last_quarter_moon: :waning_crescent_moon: <br>
 Still learning BootStrap, Sass, php, Drupal... The list probably won't stop. :dizzy_face:
 
 **COMING SOON The RELAUNCH of [Sullivan Tiberius' Website](https://www.sullyismagic.com")**<br>
-**COMING SOON The REMIX of [Sully with Calvin, Adventures in  Bro Life](https://websiteAddressTBD.com)**<br>
+**COMING SOON The REMIX of [Sully with Calvin, Adventures in  Bro Life](https://dev-sullysreboot2022magic.pantheonsite.io/node/2)**<br>
 **COMING SOON The INITIAL LAUNCH of [Yes, I made a Blog, Now What?](https://www.notthatjayz.com)**<br>
 **COMING SOON The INITIAL LAUNCH of [THE OFFICIAL FANSITE FOR DEBBIE SWAN](https://www.ilovedebbieswan.com)**<br>
 
