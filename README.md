@@ -9,10 +9,9 @@ Check out their [blog](https://blog.launchcode.org/sharing-gratitude-and-joy-21-
 Now I am a full stack developer, I got my first job as an apprentice in AQ at [VMLY&R](https://www.vmlyr.com/).
 The first project I was assigned was a website I used daily in an entirely different field! <br>
 :sparkles: :star: :star: :star: :sparkles:
-[Hit me up on LinkedIn!](https://www.linkedin.com/jmzager0110)
+
 
 I reside in the Kansas City Metropolitan area, but I was raised outside Houston, TX. 
-
 
 
 I love learning every new (to me) framework, language, whatever out there.
@@ -26,7 +25,7 @@ Still learning BootStrap, Sass, php, Drupal... The list probably won't stop. :di
 **COMING SOON The INITIAL LAUNCH of [Yes, I made a Blog, Now What?](https://www.notthatjayz.com)**<br>
 **COMING SOON The INITIAL LAUNCH of [THE OFFICIAL FANSITE FOR DEBBIE SWAN](https://www.ilovedebbieswan.com)**<br>
 
-Although I don't have much presence on social media right now, you can always reach out to me [via email](mailto:jmzager@gmail.com) :e-mail: <br>
+Although I don't have much presence on social media right now, you can always [Hit me up on LinkedIn!](https://www.linkedin.com/jmzager0110) OR reach out to me [via email](mailto:jmzager@gmail.com) :e-mail: <br>
 **Thanks for stopping by! Gotta go back to work!** 
 <br>
 <img src="https://media.giphy.com/media/vhsNmFjuN4WDS/giphy.gif">
